@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 66699a06d2e94d1478d91a05d36b69a5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - waterSprite: {fileID: 21300000, guid: c24f0816fd6e4b842bdb1c22ecd7fe3b, type: 3}
+  - fireSprite: {fileID: 21300000, guid: c24f0816fd6e4b842bdb1c22ecd7fe3b, type: 3}
+  - earthSprite: {fileID: 21300000, guid: c24f0816fd6e4b842bdb1c22ecd7fe3b, type: 3}
+  - lightningSprite: {fileID: 21300000, guid: c24f0816fd6e4b842bdb1c22ecd7fe3b, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

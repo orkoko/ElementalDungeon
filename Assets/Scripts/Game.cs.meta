@@ -1,0 +1,32 @@
+fileFormatVersion: 2
+guid: 9a45222b4cc7d3d41a3252d41c3b708b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - levelText: {instanceID: 0}
+  - chestCounterText: {instanceID: 0}
+  - hpText: {instanceID: 0}
+  - waterSprite: {fileID: 21300000, guid: c24f0816fd6e4b842bdb1c22ecd7fe3b, type: 3}
+  - fireSprite: {fileID: 21300000, guid: c24f0816fd6e4b842bdb1c22ecd7fe3b, type: 3}
+  - earthSprite: {fileID: 21300000, guid: c24f0816fd6e4b842bdb1c22ecd7fe3b, type: 3}
+  - lightningSprite: {fileID: 21300000, guid: c24f0816fd6e4b842bdb1c22ecd7fe3b, type: 3}
+  - player: {instanceID: 0}
+  - previousMap: {instanceID: 0}
+  - currentMap: {instanceID: 0}
+  - nextMap: {instanceID: 0}
+  - MapFog: {instanceID: 0}
+  - playerElementa1: {instanceID: 0}
+  - playerElementa2: {instanceID: 0}
+  - playerElementa3: {instanceID: 0}
+  - playerElementa4: {instanceID: 0}
+  - playerElementa5: {instanceID: 0}
+  - pickedElemental1: {instanceID: 0}
+  - pickedElemental2: {instanceID: 0}
+  - pickedElemental3: {instanceID: 0}
+  - pickedElemental4: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
