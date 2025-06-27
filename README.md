@@ -8,5 +8,4 @@ A simple phone game that requires a bit of thought, and a bit of luck.
 [ElementalDungeon.apk](https://drive.google.com/file/d/1yI74FJ89_c9rUZ-6xVzQoG3r1K5yOFtp/view?usp=sharing)
 
 ### Screenshots
-![Start Game](screenshots/startGameScreenshot.jpeg)
-![Middle Game](screenshots/midGameScreenshot.jpeg)
+![Start Game](screenshots/startGameScreenshot.jpeg) | ![Middle Game](screenshots/midGameScreenshot.jpeg)
